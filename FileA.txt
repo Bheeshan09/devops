@@ -1,4 +1,1 @@
-"This is file A
-Appended 0-update 1
-Updated - Rev Version2
-"
+ "Hello appending V3"
